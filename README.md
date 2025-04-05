@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @gowriramsadharsh
-- 👀 I’m interested in web developement 
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on javascript 
+- 👀 I’m interested in web developement,AI/ML,DSA.
 - 📫 How to reach me bileppagariadharsh@gmail.com
 
 <!---
